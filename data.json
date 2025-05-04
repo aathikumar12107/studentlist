@@ -1,4 +1,13 @@
-data={
-  "name":"kirenkumar",
-"mobile":"7845928388"
+{
+  "name": "John Doe",
+  "age": 30,
+  "email": "johndoe@example.com",
+  "skills": ["JavaScript", "React", "Node.js"],
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "zipcode": "10001"
+  }
 }
+
+
